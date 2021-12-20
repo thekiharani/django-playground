@@ -1,0 +1,1 @@
+http://127.0.0.1:8000/posts/e_search?search=title|texas&search=content|apple
